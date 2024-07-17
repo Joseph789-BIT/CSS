@@ -1,0 +1,21 @@
+  body, html {
+    background-color: antiquewhite;
+    width: 85%;
+    margin-left: 7%;
+  }
+  img {
+    width:min-content;
+  }
+  h1 {
+    color: tomato;
+  }
+  h2 {
+    color: darkred;
+  }
+  h3, input {
+    color: crimson;
+  }
+  button {
+    background-color: rgba(0, 0, 0, 0.384);
+    color: aliceblue;
+  }
